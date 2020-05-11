@@ -1,5 +1,5 @@
 # PythonPractice
 
-There exists some practice about Python
+There exists some practice about Python and it will keep updating with my learning.
 
-It will continue to be updated with my study.
+### keep working hard.
