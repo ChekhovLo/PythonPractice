@@ -5,6 +5,7 @@
 # @Author  : Chekhov
 # @File    : tantanshe.pyi
 
+```python
 import random
 import pygame
 import sys
@@ -230,3 +231,4 @@ def drawGrid():
 
 if __name__ == '__main__':
     main()
+```
